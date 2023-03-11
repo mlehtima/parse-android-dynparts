@@ -1,0 +1,3 @@
+[submodule "parse-android-dynparts"]
+	path = parse-android-dynparts
+	url = https://github.com/tchebb/parse-android-dynparts.git
